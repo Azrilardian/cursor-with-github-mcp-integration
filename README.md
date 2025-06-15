@@ -1,0 +1,1 @@
+# cursor-with-github-mcp-integration
