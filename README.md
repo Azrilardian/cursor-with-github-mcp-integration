@@ -4,7 +4,7 @@ This guide explains how to set up and use the GitHub MCP integration in Cursor.
 
 ## Step-by-Step Setup Instructions
 
-### 1. Create a GitHub Personal Access Token (Fine-grained)
+### 1. Create a GitHub Personal Access Token (Classic Token)
 
 * Go to your GitHub account settings
 * Navigate to `Developer Settings` > `Personal Access Tokens` > `classic-token`
